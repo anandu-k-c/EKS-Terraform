@@ -1,4 +1,4 @@
-## Project: EKS Cluster with VPC on AWS using Terraform
+## Project : EKS Cluster with VPC on AWS using Terraform
 
 **Objective**: This project demonstrates how to create a scalable and secure Amazon Elastic Kubernetes Service (EKS) cluster with a custom Virtual Private Cloud (VPC) on AWS using Terraform as the Infrastructure as Code (IaC) tool.
 
